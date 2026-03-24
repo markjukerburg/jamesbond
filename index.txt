@@ -3,11 +3,11 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Adarsha Nagaraja
-Software Engineer
+Data Scientist
 Show Contacts
 
 Email
-adarshaduu1010@gmail.com
+adarshaduu835@gmail.com
 
 
 
